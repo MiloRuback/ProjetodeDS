@@ -1,0 +1,23 @@
+{
+    "name": "Amigo Fiel Petshop",
+    "short_name": "Amigo Fiel",
+    "description": "Projeto PWA Etec São Mateus",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fffbf5",
+    "theme_color": "#0d9488",
+    "orientation": "portrait",
+    "lang": "pt-BR",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
